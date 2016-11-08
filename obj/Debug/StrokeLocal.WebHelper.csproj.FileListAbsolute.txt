@@ -1,0 +1,7 @@
+E:\work\StrokeLocalWin\StrokeLocalWin\StrokeLocal.WebHelper\bin\Debug\StrokeLocal.WebHelper.dll
+E:\work\StrokeLocalWin\StrokeLocalWin\StrokeLocal.WebHelper\bin\Debug\StrokeLocal.WebHelper.pdb
+E:\work\StrokeLocalWin\StrokeLocalWin\StrokeLocal.WebHelper\obj\Debug\StrokeLocal.WebHelper.csprojResolveAssemblyReference.cache
+E:\work\StrokeLocalWin\StrokeLocalWin\StrokeLocal.WebHelper\obj\Debug\StrokeLocal.WebHelper.Properties.Resources.resources
+E:\work\StrokeLocalWin\StrokeLocalWin\StrokeLocal.WebHelper\obj\Debug\StrokeLocal.WebHelper.csproj.GenerateResource.Cache
+E:\work\StrokeLocalWin\StrokeLocalWin\StrokeLocal.WebHelper\obj\Debug\StrokeLocal.WebHelper.dll
+E:\work\StrokeLocalWin\StrokeLocalWin\StrokeLocal.WebHelper\obj\Debug\StrokeLocal.WebHelper.pdb

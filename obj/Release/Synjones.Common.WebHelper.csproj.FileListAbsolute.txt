@@ -1,0 +1,7 @@
+G:\synjones\svn\ref\synjones\common\Synjones.Common.WebHelper.dll
+G:\synjones\svn\ref\synjones\common\Synjones.Common.WebHelper.pdb
+G:\synjones\svn\common\trunk4mobile\Synjones.Common.WebHelper\obj\Release\Synjones.Common.WebHelper.csprojResolveAssemblyReference.cache
+G:\synjones\svn\common\trunk4mobile\Synjones.Common.WebHelper\obj\Release\Synjones.Common.WebHelper.Properties.Resources.resources
+G:\synjones\svn\common\trunk4mobile\Synjones.Common.WebHelper\obj\Release\Synjones.Common.WebHelper.csproj.GenerateResource.Cache
+G:\synjones\svn\common\trunk4mobile\Synjones.Common.WebHelper\obj\Release\Synjones.Common.WebHelper.dll
+G:\synjones\svn\common\trunk4mobile\Synjones.Common.WebHelper\obj\Release\Synjones.Common.WebHelper.pdb
